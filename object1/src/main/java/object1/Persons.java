@@ -28,8 +28,8 @@ public class Persons {
         return height;
     }
     // Declared and initialized a Persons object
-    //Persons person1 = new Persons("Joey", 25, 152.4 );
-    //Persons person2 = new Persons("Emmanuel", 37, 182.9);
-    //Persons person3 = new Persons("Kamari", 8, 123.5);
+    Persons person1 = new Persons("Joey", 25, 152.4 );
+    Persons person2 = new Persons("Emmanuel", 37, 182.9);
+    Persons person3 = new Persons("Kamari", 8, 123.5);
 }
 
